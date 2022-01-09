@@ -1,7 +1,6 @@
 # Currency converter using JAVAFX
 
-## This application converts currencies selected by the user. 
-## There are currencies such as USD, RUB, SUM, EUR.
+### This application converts currencies selected by the user. There are currencies such as USD, RUB, SUM, EUR.
 
 ## LIST OF FILES
 
