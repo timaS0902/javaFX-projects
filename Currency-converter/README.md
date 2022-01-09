@@ -5,6 +5,6 @@
 ## LIST OF FILES
 
 - CurrencyConverter - is main java file.
-- CurrencyController - java file with button, textfield, label.|
-- Shake - file for animation, when currency choice of currency is empty.|
-- hello-view.fxml - file with styles like css.|
+- CurrencyController - java file with button, textfield, label.
+- Shake - file for animation, when currency choice of currency is empty.
+- hello-view.fxml - file with styles like css.
